@@ -1,4 +1,4 @@
-  ESP32 Sensor Monitoring Web Server
+  ESP32 Sensor Monitoring Web Server:
 This project uses an ESP32 microcontroller to create a simple yet effective wireless sensor monitoring system. It reads environmental data from multiple sensors and hosts a lightweight web server, allowing users to view live sensor readings from any device on the same Wi-Fi network.
 
   Features:
